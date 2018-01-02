@@ -1,0 +1,1 @@
+This is a small trivia game using mostly javascript to interact with player. I am not using a restful server. All the questions and all of its answers are in the javascript file. I am getting there with using databases, restful servers and etc.
