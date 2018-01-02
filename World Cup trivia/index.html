@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+    <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Scope+One" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>World Cup Trivia</title>
+  </head>
+  <body>
+    <h1 id="header">World Cup Trivia!</h1>
+    <div class="jumbotron">
+      <h1 id="question">QUESTION</h1>
+      <hr>
+      <p class="answers">
+        <button type="button" class="btn btn-secondary choice">OPTION 1</button>
+        <button type="button" class="btn btn-secondary choice">OPTION 2</button>
+        <button type="button" class="btn btn-secondary choice">OPTION 3</button>
+        <button type="button" class="btn btn-secondary choice">OPTION 4</button>
+      </p>
+    </div>
+    <div>
+      <p id="score">Correct: <span id="rightAnswers">0</span> <span id="separate"></span> Incorrect:<span id="wrongAnswers">0</span></p>
+    </div>
+    <script src="assets/js/trivia.js"></script>
+  </body>
+</html>
