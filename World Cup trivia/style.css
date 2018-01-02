@@ -1,0 +1,58 @@
+body {
+  height: 100%;
+  background: #f2f2f2;
+}
+
+.jumbotron {
+  background: steelblue;
+  margin: 70px 10%;
+}
+
+.answers {
+  margin-top: 70px;
+  text-align: center;
+  font-family: "Bungee";
+}
+
+#header {
+  margin-top: 70px;
+  text-align: center;
+  font-family: "Monoton";
+  font-size: 6.0em;
+}
+
+#question {
+  text-align: center;
+  font-family: "Scope One";
+  color: white;
+}
+
+#score {
+  text-align: center;
+  font-family: "Bungee";
+  font-size: 2.0em;
+}
+
+#separate {
+  display: inline-block;
+  width: 50%;
+}
+
+.right {
+  background-color: green;
+  opacity: 0.8;
+}
+
+.wrong {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.choice {
+  background-color: white;
+  color: black;
+}
+
+.hide {
+  visibility: hidden;
+}
