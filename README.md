@@ -1,2 +1,2 @@
 # Html-Projects
-This repository includes some templates I have designed in my free time.
+This repository includes some simple programs that I have created in my free time using HTML, CSS and JS. 
