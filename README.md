@@ -1,4 +1,4 @@
-# Html-Projects
+# Front-end // Back-end Projects
 This repository includes some simple programs that I have created in my free time using HTML, CSS, JS, Express, NodeJs, MongoDB.
 
 * Patatap Clone - Keyboard interactive application.
