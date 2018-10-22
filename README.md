@@ -10,7 +10,7 @@ This repository includes some simple programs that I have created in my free tim
 * beerApp - Application for recording all the beers me and my girlfriend have ever tasted. Google maps API used for displaying all the locations on a map.
   * Currently not available.
 
-* colorGame - RGB color guess game.
+* colorGame - RGB color guess game?
 
 
 **Application:** | **Patatap Clone** | **To do List** | **World Cup Trivia** | **colorGame**
